@@ -4,4 +4,3 @@ Joamac provides services n the following areas:
 devops
 software development
 Data Science
-another
