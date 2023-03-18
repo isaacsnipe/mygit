@@ -1,0 +1,4 @@
+The ff are the working areas in Local Git repo
+1. Working area
+2. Staging area
+3. Commit area
